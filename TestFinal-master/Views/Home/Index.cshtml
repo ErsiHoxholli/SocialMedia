@@ -1,0 +1,154 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center row">
+    <div class="col-sm-3"></div>
+    <h1 class="display-4 col-sm-6">Welcome @ViewBag.iLoguari.FirstName</h1>
+    <div class="col-sm-3">
+        <a href="/logout" class="btn btn-danger col-sm-3">Logout</a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-11"></div>
+
+
+<div class="row">
+    <div class="col-sm-3">
+        <table class="table">
+            <h3>Add Friends</h3>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>
+                        Actions
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+
+               @foreach (var item in ViewBag.Allusers)
+                {
+                     <tr>
+                        
+                            <td>                               
+                            @item.FirstName </td>
+                        <td><a href="/SendR/@item.UserId">Send Friend Request</a></td> 
+                       
+                        </tr>
+                }
+
+  
+            </tbody>
+        </table>
+    </div>
+
+    <div class="row">
+    <div class="col-sm-3">
+        <table class="table">
+            <h3>Remove</h3>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>
+                        Actions
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var item in ViewBag.friends)
+                {
+                     <tr>
+                         @if(item.Sender.UserId == ViewBag.iLoguari.UserId){
+                            <td>@item.Reciver.FirstName </td>
+                         }else{
+                            <td>@item.Sender.FirstName </td>
+                         }
+                            
+                        <td><a href="/RemoveF/@item.RequestId" class="btn btn-danger"> Remove Friend </a></td> 
+                       
+                        </tr>
+                }
+
+   
+
+           </tbody>
+        </table>
+    </div>
+
+    <div class="col-sm-3">
+        <h3>Friends</h3>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>
+                        Actions
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+         
+            
+                   
+                    
+                @foreach (var item in ViewBag.request )
+                {
+                     <tr>
+                       
+                            <td>@item.Sender.FirstName </td>
+                        <td><a href="/AcceptR/@item.RequestId" class=" btn btn-primary">Accept </a>
+                            <a href="/DeclineR/@item.RequestId" class="btn btn-danger"> Decline </a>
+                        </td>
+                    </tr>
+                }
+
+                
+            </tbody>
+        </table>
+    </div>
+
+    
+<div class="row">
+    <div class="col sm-3 offset-sm-6">
+<a class="btn btn-primary" asp-action="PostAdd" asp-controller="Home" asp-route-id="@ViewBag.iLoguari.UserId">Add a Post</a>
+    </div>
+</div>
+
+@* Posts *@
+
+<div class="row">
+    <div class="col sm-6 text-center bg-white border mt-2 ">
+
+        @foreach (var item in ViewBag.posts)
+        {<div class="border mb-3 mt-3">
+             <h3>@item.Creator.FirstName</h3>
+            <p>@item.Description </p>
+            <a class="btn btn-primary " asp-action="Like" asp-controller="Home" asp-route-id="@ViewBag.iLoguari.UserId" asp-route-id2="@item.PostId"> Like </a>
+             
+             <form class=""  asp-controller="Home" asp-action="CommentCreate" asp-route-id="@ViewBag.iLoguari.UserId" asp-route-id2="@item.PostId" method="post">
+                                     
+                <div class="form-group">
+                    
+                    <label for="content">Comment</label>
+                    <input type="text" class="form-control" for="content" name="content">
+                </div>               
+                <button type="submit" class="btn btn-primary btn-lg">Comment</button>
+            </form>   
+            </div>
+            <div>
+                
+                <p>@item.Likes.Count</p>
+                @foreach (var item2 in item.Comments)
+                {
+                    <p>@item2.UseriQekomenton.FirstName</p>
+                   <p>@item2.content </p> 
+                }
+                
+            </div>
+
+            
+        }
+    </div>
+</div>

@@ -1,0 +1,70 @@
+C:\Users\35569\Desktop\TestFinal-master\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\35569\Desktop\TestFinal-master\bin\Debug\net6.0\appsettings.json
+C:\Users\35569\Desktop\TestFinal-master\bin\Debug\net6.0\TestFinal.staticwebassets.runtime.json
+C:\Users\35569\Desktop\TestFinal-master\bin\Debug\net6.0\TestFinal.exe
+C:\Users\35569\Desktop\TestFinal-master\bin\Debug\net6.0\TestFinal.deps.json
+C:\Users\35569\Desktop\TestFinal-master\bin\Debug\net6.0\TestFinal.runtimeconfig.json
+C:\Users\35569\Desktop\TestFinal-master\bin\Debug\net6.0\TestFinal.dll
+C:\Users\35569\Desktop\TestFinal-master\bin\Debug\net6.0\TestFinal.pdb
+C:\Users\35569\Desktop\TestFinal-master\bin\Debug\net6.0\Humanizer.dll
+C:\Users\35569\Desktop\TestFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\35569\Desktop\TestFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\35569\Desktop\TestFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\35569\Desktop\TestFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\35569\Desktop\TestFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\35569\Desktop\TestFinal-master\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\35569\Desktop\TestFinal-master\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.csproj.AssemblyReference.cache
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.AssemblyInfoInputs.cache
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.AssemblyInfo.cs
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.RazorAssemblyInfo.cache
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.RazorAssemblyInfo.cs
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\scopedcss\bundle\TestFinal.styles.css
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\scopedcss\projectbundle\TestFinal.bundle.scp.css
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.csproj.CopyComplete
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.dll
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\refint\TestFinal.dll
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.pdb
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.genruntimeconfig.cache
+C:\Users\35569\Desktop\TestFinal-master\obj\Debug\net6.0\ref\TestFinal.dll
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\bin\Debug\net6.0\appsettings.json
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\bin\Debug\net6.0\TestFinal.staticwebassets.runtime.json
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\bin\Debug\net6.0\TestFinal.exe
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\bin\Debug\net6.0\TestFinal.deps.json
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\bin\Debug\net6.0\TestFinal.runtimeconfig.json
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\bin\Debug\net6.0\TestFinal.dll
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\bin\Debug\net6.0\TestFinal.pdb
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.csproj.AssemblyReference.cache
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.AssemblyInfoInputs.cache
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.AssemblyInfo.cs
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.RazorAssemblyInfo.cache
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.RazorAssemblyInfo.cs
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\scopedcss\bundle\TestFinal.styles.css
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\scopedcss\projectbundle\TestFinal.bundle.scp.css
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.csproj.CopyComplete
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.dll
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\refint\TestFinal.dll
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.pdb
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\TestFinal.genruntimeconfig.cache
+C:\Users\Ersi Hoxholli\Desktop\TestFinal-master\obj\Debug\net6.0\ref\TestFinal.dll
